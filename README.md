@@ -31,11 +31,11 @@ ___
 ___
 ## PowerBi
 ___
-![dashboard1-powerbi](https://github.com/Ems01/PM-projects/blob/main/Project%202/PowerBI/immagini/dash%201%20con%20filtri.png)
+![dashboard1-powerbi](https://github.com/Ems01/PM-projects/blob/main/Project%202/PowerBI/dash%201%20con%20filtri.png)
 ___
-![dashboard2-powerbi](https://github.com/Ems01/PM-projects/blob/main/Project%202/PowerBI/immagini/dash%202%20con%20filtri.png)
+![dashboard2-powerbi](https://github.com/Ems01/PM-projects/blob/main/Project%202/PowerBI/dash%202%20con%20filtri.png)
 ___
-![dashboard3-powerbi](https://github.com/Ems01/PM-projects/blob/main/Project%202/PowerBI/immagini/dash%203%20con%20filtri.png)
+![dashboard3-powerbi](https://github.com/Ems01/PM-projects/blob/main/Project%202/PowerBI/dash%203%20con%20filtri.png)
 ___
 
 ## The authors
