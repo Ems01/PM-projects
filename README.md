@@ -15,11 +15,11 @@ Analysis of football matches in the 5 biggest European leagues in the 2014-2020 
 
 ## Tableau
 ___
-![dashboard1](https://github.com/Ems01/PM-projects/blob/main/Project%202/Tableau/immagini/dash%201.png)
+![dashboard1-tableau](https://github.com/Ems01/PM-projects/blob/main/Project%202/Tableau/immagini/dash%201.png)
 ___
-![dashboard2](https://github.com/Ems01/PM-projects/blob/main/Project%202/Tableau/immagini/Dash%202.png)
+![dashboard2-tableau](https://github.com/Ems01/PM-projects/blob/main/Project%202/Tableau/immagini/Dash%202.png)
 ___
-![dashboard3](https://github.com/Ems01/PM-projects/blob/main/Project%202/Tableau/immagini/dash%203.png)
+![dashboard3-tableau](https://github.com/Ems01/PM-projects/blob/main/Project%202/Tableau/immagini/dash%203.png)
 ___
 ## Qlik
 ___
@@ -30,9 +30,13 @@ ___
 ![dashboard3-qlik](https://github.com/Ems01/PM-projects/blob/main/Project%202/Qlik/png/Dash%203.png)
 ___
 ## PowerBi
-<!--![dash1_1](https://github.com/MrPio/UK-Traffic-Accidents-Analysis/assets/22773005/4c6df821-3d4f-4e0f-903b-3d5f6a9e9cc1)-->
-<!--![dash4_1](https://github.com/MrPio/UK-Traffic-Accidents-Analysis/assets/22773005/aaa7539b-88fe-4245-be45-9a29e235f679)-->
-<!--![dash3_1](https://github.com/MrPio/UK-Traffic-Accidents-Analysis/assets/22773005/688d130c-b9f1-43f6-90dd-43fa40fe14b8)-->
+___
+![dashboard1-powerbi](https://github.com/Ems01/PM-projects/blob/main/Project%202/PowerBI/immagini/dash%201%20con%20filtri.png)
+___
+![dashboard2-powerbi](https://github.com/Ems01/PM-projects/blob/main/Project%202/PowerBI/immagini/dash%202%20con%20filtri.png)
+___
+![dashboard3-powerbi](https://github.com/Ems01/PM-projects/blob/main/Project%202/PowerBI/immagini/dash%203%20con%20filtri.png)
+___
 
 ## The authors
 |        Author       |            Github profile           |
